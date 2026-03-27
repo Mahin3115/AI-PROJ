@@ -52,7 +52,7 @@ expense_tracker/
 ### 1. Clone the Repository
 
 ```id="xhphot"
-git clone https://github.com/your-username/expense-tracker
+git clone https://github.com/Mahin3115/AI-PROJ/
 ```
 
 ### 2. Navigate to Project Folder
