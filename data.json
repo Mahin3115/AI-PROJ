@@ -10,5 +10,9 @@
     {
         "category": "Food",
         "amount": 200.0
+    },
+    {
+        "category": "Study",
+        "amount": 300.0
     }
 ]
